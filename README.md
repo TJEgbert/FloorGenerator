@@ -1,0 +1,1 @@
+This was my first attempt at making a random floor generator to be used in an Android app I’m working on.  I did it in C# since it’s one of the languages I’m most comfortable with so I could focus logic of program.  I have adapted this code to work in an Unity project that I’m working on for my Advance Game Development.  I’m confident that I can integrate into an Android app.
